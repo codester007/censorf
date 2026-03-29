@@ -18,3 +18,11 @@ A Chrome extension that hides the Chronik ticker section on [orf.at](https://orf
 | `popup.html` | Extension popup UI |
 | `popup.js` | Popup logic |
 | `icon.png` | Extension icon |
+
+## Contributing
+
+Contributions are welcome! Feel free to open an issue or submit a pull request.
+
+## License
+
+This project is provided as-is with no formal license. Feel free to use and modify it for personal use.
