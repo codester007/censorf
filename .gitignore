@@ -1,0 +1,13 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Secrets
+.env
+*.pem
+*.key
+
+# Build artifacts
+node_modules/
+*.zip
+*.crx

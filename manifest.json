@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "Hide Chronik Section",
+  "version": "1.0",
+  "description": "Hides the Chronik ticker section on ORF.at",
+  "permissions": ["activeTab", "scripting"],
+  "content_scripts": [
+    {
+      "matches": ["https://orf.at/*"],
+      "js": ["content.js"]
+    }
+  ]
+}
